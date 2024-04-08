@@ -1,0 +1,116 @@
+[
+    {
+        "player": "Admin",
+        "points": 60,
+        "currentQuestion": 20,
+        "currentHelp": 10
+    },
+    {
+        "player": "Peter",
+        "points": 45,
+        "currentQuestion": 20,
+        "currentHelp": 3
+    },
+    {
+        "player": "Tomas",
+        "points": 40,
+        "currentQuestion": 20,
+        "currentHelp": 0
+    },
+    {
+        "player": "Catarina",
+        "points": 36,
+        "currentQuestion": 20,
+        "currentHelp": 4
+    },
+    {
+        "player": "Noob",
+        "points": 10,
+        "currentQuestion": 10,
+        "currentHelp": 6
+    },
+    {
+        "player": "dodl",
+        "points": 2,
+        "currentQuestion": 0,
+        "currentHelp": 10
+    },
+    {
+        "player": "Lukas",
+        "points": 34,
+        "currentQuestion": 20,
+        "currentHelp": 4
+    },
+    {
+        "player": "Monica",
+        "points": 35,
+        "currentQuestion": 20,
+        "currentHelp": 4
+    },
+    {
+        "player": "Alice",
+        "points": 22,
+        "currentQuestion": 20,
+        "currentHelp": 1
+    },
+    {
+        "player": "Gregor",
+        "points": 15,
+        "currentQuestion": 15,
+        "currentHelp": 0
+    },
+    {
+        "player": "Newbie",
+        "points": 3,
+        "currentQuestion": 3,
+        "currentHelp": 8
+    },
+    {
+        "player": "ddd",
+        "points": 0,
+        "currentQuestion": 0,
+        "currentHelp": 10
+    },
+    {
+        "player": "zywy",
+        "points": 0,
+        "currentQuestion": 0,
+        "currentHelp": 10
+    },
+    {
+        "player": "gg",
+        "points": 0,
+        "currentQuestion": 0,
+        "currentHelp": 10
+    },
+    {
+        "player": "test",
+        "points": 0,
+        "currentQuestion": 0,
+        "currentHelp": 10
+    },
+    {
+        "player": "test",
+        "points": 4,
+        "currentQuestion": 0,
+        "currentHelp": 10
+    },
+    {
+        "player": "afk",
+        "points": 2,
+        "currentQuestion": 0,
+        "currentHelp": 10
+    },
+    {
+        "player": "d",
+        "points": 0,
+        "currentQuestion": 0,
+        "currentHelp": 10
+    },
+    {
+        "player": "xxx",
+        "points": 0,
+        "currentQuestion": 0,
+        "currentHelp": 10
+    }
+]
