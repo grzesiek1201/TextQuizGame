@@ -53,7 +53,6 @@ Text Quiz Game challenges players to answer a series of programming-related ques
 -  threading
 -  json
 -  os
--  tkinter
   
 ## License
 
